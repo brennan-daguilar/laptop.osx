@@ -53,7 +53,7 @@ brew cask install virtualbox
 brew cask alfred link
 
 #link sublime for global 'sublime' command
-ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
 #install vagrant-cachier (to speed up provisioning)
 vagrant plugin install vagrant-cachier
