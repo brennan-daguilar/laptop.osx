@@ -13,4 +13,4 @@ If you have previosuly saved configs with Mackup (https://github.com/lra/mackup)
 restore with:
 
 - `brew install mackup`
-- `mackup restore`
+- `mackup restore`fsadf
