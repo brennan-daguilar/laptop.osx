@@ -39,6 +39,8 @@ brew cask install iterm2
 #brew cask install Skype
 #brew cask install spotify
 brew cask install sublime-text
+brew cask install sourcetree
+brew cask install mplayerx
 #brew cask install testflight
 #brew cask install toggldesktop
 #brew cask install utorrent
